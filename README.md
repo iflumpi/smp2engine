@@ -9,7 +9,7 @@ The **SMP2 Engine** provides a core framework to load, manage, and execute SMP2-
 
 ## Features
 
-- **SMP2 Model Loader:**Loads and validates SMP2 models according to the SMP2 standard.
+- **SMP2 Model Loader:** Loads and validates SMP2 models according to the SMP2 standard.
 - **Modular Architecture:** Supports the integration of modular components, making it easy to extend or replace individual simulation models.
 - **Interoperability:** Ensures models developed with different tools or by different organizations can work together seamlessly.
 - **Basic Models Included:** Includes a couple of basic SMP2 models as examples to get started quickly.
@@ -52,3 +52,8 @@ To run an example:
 
 ```bash
 ./smp2engine ./libExample.so
+```
+
+## License
+
+This project is licensed under the MIT license - see the LICENSE file for details.
